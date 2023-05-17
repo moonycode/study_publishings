@@ -1,0 +1,45 @@
+
+* {
+  margin : 0
+}
+.maintitle {
+  font-weight: bolder;
+  font-size: 40px;
+  color: red;
+  text-shadow: 2px 2px black;
+  text-align: center;
+}
+
+.images{
+  text-align: center;
+  margin: 20px
+}
+
+
+.title {
+  color:brown;
+  font-weight: bold;
+  background-color: rgb(186, 236, 186);
+  text-align: center;
+}
+
+.par {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  margin-bottom: 16px;
+}
+
+.mycontent {
+  background-color: #FF9500;
+  width: 600px;
+  border: 5px solid black;
+  padding: 0 20px 20px 20px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: rgb(50, 50, 255);
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}

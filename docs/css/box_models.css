@@ -1,0 +1,30 @@
+* {
+  border: 1px dotted gray;
+}
+
+.bordered {
+  border: 5px solid blue;
+
+}
+
+.margined {
+  /* margin: 3px 8px 13px 18px; */
+  margin : 0 auto;
+  width:150px
+}
+
+.paddinged {
+  padding: 10px 15px 20px 25px;
+  border: 1px solid red;
+  }
+
+.aligned {
+  font-size: 20px;
+  text-align: center;
+}
+
+/* body {
+  width: 300px;
+  
+
+} */
