@@ -21,7 +21,7 @@
 
 
 
-.flex-container > div {
+.flex-container_1 > div {
   background-color: #f1f1f1;
   width: 100px;
   margin: 10px;
@@ -30,9 +30,4 @@
   font-size: 30px;
 }
 
-.flex-container > div > div {
-  background-color: #db3d3d;}
-
-.flex-container span {B
-  background-color: #b9db3d;}
 
