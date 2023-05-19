@@ -1,3 +1,7 @@
 * {
   border: 0.1rem dotted rgb(218, 118, 118);
 }
+
+.auto_width {
+  width:100%;
+}
